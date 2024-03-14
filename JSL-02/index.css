@@ -64,12 +64,11 @@ ul {
     top: 20px;
     right: 20px;
     background: #2f4f4f;
-    color: white; /* Ensure the toggle button text is visible */
+    color: white; 
 }
 
 .dark-theme {
-    color: #dcdcdc; /* Lighter font color for readability in dark mode */
-}
+    color: #dcdcdc;  
 
 .dark-theme #watch-container {
     background: linear-gradient(145deg, #243b55, #141e30);
